@@ -33,4 +33,6 @@
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OfficeDev&repo=PnP-OfficeAddins&theme=dark) 
   
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SDNCode&repo=sdncast.nl&theme=dark)    
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aafvstam&repo=BlazorAddIn&theme=dark)    
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aafvstam&repo=softasinsoftware.com&theme=dark)    
