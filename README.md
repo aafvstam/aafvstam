@@ -6,11 +6,11 @@
 - 💬 C#, Typescript, JavaScript, <span>VB.NET</span>, VB, VBA, C++, Clipper, DBase III/IV, Pascal, Fortran, Cobol
 - 🐦 [![Twitter](https://img.shields.io/twitter/follow/aafvstam?label=Follow%20%40aafvstam&style=social)](https://twitter.com/aafvstam)
 - 🥇 [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/33535?fullName=Maarten%20van%20Stam) since 2006.
-- ![Twitch](https://cdn.emojidex.com/emoji/mdpi/Twitch.png "Twitch") [Follow me on Twitch](https://twitch.tv/softasinsoftware). I stream twice a week, usually Tue/Thu 9 PM (CEST).
-- ![YouTube](https://cdn.emojidex.com/emoji/mdpi/YouTube.png "YouTube") [Follow me on YouTube](https://www.youtube.com/c/SoftAsInSoftware?sub_confirmation=1). My recordings and videos can be found here on YouTube.
+- ![Twitch](https://cdn.emojidex.com/emoji/mdpi/Twitch.png "Twitch") [Follow me on Twitch](https://twitch.tv/softasinsoftware).  <img alt="YouTube Channel Views" src="https://img.shields.io/twitch/status/softasinsoftware?style=social"><br />I stream twice a week, usually Tue/Thu 9 PM (CEST).
+- ![YouTube](https://cdn.emojidex.com/emoji/mdpi/YouTube.png "YouTube") [Follow me on YouTube](https://www.youtube.com/c/SoftAsInSoftware?sub_confirmation=1). <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCbB7aNtJUfpbQMbSwdRdpzw"> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCbB7aNtJUfpbQMbSwdRdpzw"><br />My recordings and videos can be found here on YouTube. 
+- <img alt="GitHub Followers" src="https://img.shields.io/github/followers/aafvstam?style=social"> ![visitors](https://visitor-badge.glitch.me/badge?page_id=aafvstam.visitor-badge)
 
-![github](https://img.shields.io/github/followers/aafvstam?style=plastic)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=aafvstam.visitor-badge)
+
 
 <br />
 <div>
