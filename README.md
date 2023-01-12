@@ -14,7 +14,7 @@
 
 <br />
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aafvstam&show_icons=true&theme=dark" alt="aafvstam"/>
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aafvstam&show_icons=true&theme=dark" alt="aafvstam"/>
 <div/>
 <br />
 <div>
@@ -22,17 +22,17 @@
 <div/>
 <br />
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aafvstam&layout=compact&hide=html&theme=dark" alt="aafvstam" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aafvstam&layout=compact&hide=html&theme=dark" alt="aafvstam" />
 <div/>
 <br />
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aafvstam&repo=PnP-OfficeAddins&theme=dark" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aafvstam&repo=PnP-OfficeAddins&theme=dark" />
 </div>  
 
 ### `Working On`
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OfficeDev&repo=PnP-OfficeAddins&theme=dark) 
+![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=OfficeDev&repo=PnP-OfficeAddins&theme=dark) 
   
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aafvstam&repo=BlazorAddIn&theme=dark)    
+![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aafvstam&repo=BlazorAddIn&theme=dark)    
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aafvstam&repo=softasinsoftware.com&theme=dark)    
+![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aafvstam&repo=softasinsoftware.com&theme=dark)    
