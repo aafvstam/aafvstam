@@ -1,6 +1,9 @@
 ![Maarten - SoftasinSoftware - 1500x500](https://user-images.githubusercontent.com/5305682/216095703-0117b759-825a-4115-a9b8-14c4a8736255.jpg)
 
-### Hi there 👋
+<h1 align="center">
+    Hi there 👋
+</h1>
+
 - 🤡 I' Maarten van Stam
 - 🔭 I’m currently working on Office Development Add-ins
 - 🌱 I’m currently learning web technologies
@@ -13,7 +16,9 @@
 - <img alt="GitHub Followers" src="https://img.shields.io/github/followers/aafvstam?style=social"> 
 - ![Profile View Counter](https://komarev.com/ghpvc/?username=aafvstam)
 
-### 📊 GitHub Stats & Activity
+<h2 align="center">
+    📊 GitHub Stats & Activity
+</h2>
 
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=aafvstam&theme=github-compact" alt="Maarten's Activity Graph"/>
@@ -28,15 +33,35 @@
   <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=aafvstam&theme=dark" />
 <p/>
 
-### `Working On`
+<h2 align="center">
+    Working On
+</h2>
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aafvstam&repo=Blazor.PowerPoint.AddIn&theme=dark)  
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OfficeDev&repo=Office-Add-in-samples&theme=dark)  
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aafvstam&repo=softasinsoftware.com&theme=dark)
+<p align="center">
+   <a href="https://github.com/aafvstam/Blazor.PowerPoint.AddIn">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aafvstam&repo=Blazor.PowerPoint.AddIn&theme=dark" />
+   </a>
+</p>
+<p align="center">
+   <a href="https://github.com/OfficeDev/Office-Add-in-samples">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OfficeDev&repo=Office-Add-in-samples&theme=dark" />
+   </a>
+</p>
+<p align="center">
+   <a href="https://github.com/aafvstam/softasinsoftware.com">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aafvstam&repo=softasinsoftware.com&theme=dark" />
+   </a>
+</p>
 
-### `Working On Fork`
+<h2 align="center">
+    Working On Fork
+</h2>
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aafvstam&repo=PnP-OfficeAddins&theme=dark)
+<p align="center">
+   <a href="https://github.com/aafvstam/Office-Add-in-samples">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aafvstam&repo=Office-Add-in-samples&theme=dark" />
+   </a>
+</p>
 
 <!-- Info -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
