@@ -38,6 +38,11 @@
 </h2>
 
 <p align="center">
+   <a href="https://github.com/aafvstam/Blazor.Outlook.AddIn">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aafvstam&repo=Blazor.Outlook.AddIn&theme=dark" />
+   </a>
+</p>
+<p align="center">
    <a href="https://github.com/aafvstam/Blazor.Word.AddIn">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aafvstam&repo=Blazor.Word.AddIn&theme=dark" />
    </a>
