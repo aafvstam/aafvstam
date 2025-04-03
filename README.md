@@ -36,7 +36,11 @@
 <h2 align="center">
     Working On
 </h2>
-
+<p align="center">
+   <a href="https://github.com/aafvstam/Blazor.Excel.AddIn">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aafvstam&repo=Blazor.Excel.AddIn&theme=dark" />
+   </a>
+</p>
 <p align="center">
    <a href="https://github.com/aafvstam/Blazor.Outlook.AddIn">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aafvstam&repo=Blazor.Outlook.AddIn&theme=dark" />
