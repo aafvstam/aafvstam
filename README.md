@@ -25,8 +25,8 @@
 </p>
 
 <p align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=aafvstam&theme=dark&show_icons=true" alt="Maarten's GitHub Stats"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=aafvstam&layout=compact&langs_count=8&card_width=320&theme=dark" alt="Maarten's Top Languages"/>
+    <img height="180" src="https://github-readme-stats-aafvstam.vercel.app/api?username=aafvstam&theme=dark&show_icons=true" alt="Maarten's GitHub Stats"/>
+    <img height="180" src="https://github-readme-stats-aafvstam.vercel.app/api/top-langs?username=aafvstam&layout=compact&langs_count=8&card_width=320&theme=dark" alt="Maarten's Top Languages"/>
 </p>
 
 <p align="center">
@@ -38,32 +38,27 @@
 </h2>
 <p align="center">
    <a href="https://github.com/aafvstam/Blazor.Excel.AddIn">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aafvstam&repo=Blazor.Excel.AddIn&theme=dark" />
+      <img align="center" src="https://github-readme-stats-aafvstam.vercel.app/api/pin/?username=aafvstam&repo=Blazor.Excel.AddIn&theme=dark" />
    </a>
 </p>
 <p align="center">
    <a href="https://github.com/aafvstam/Blazor.Outlook.AddIn">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aafvstam&repo=Blazor.Outlook.AddIn&theme=dark" />
+      <img align="center" src="https://github-readme-stats-aafvstam.vercel.app/api/pin/?username=aafvstam&repo=Blazor.Outlook.AddIn&theme=dark" />
    </a>
 </p>
 <p align="center">
    <a href="https://github.com/aafvstam/Blazor.Word.AddIn">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aafvstam&repo=Blazor.Word.AddIn&theme=dark" />
+      <img align="center" src="https://github-readme-stats-aafvstam.vercel.app/api/pin/?username=aafvstam&repo=Blazor.Word.AddIn&theme=dark" />
    </a>
 </p>
 <p align="center">
    <a href="https://github.com/aafvstam/Blazor.PowerPoint.AddIn">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aafvstam&repo=Blazor.PowerPoint.AddIn&theme=dark" />
-   </a>
-</p>
-<p align="center">
-   <a href="https://github.com/OfficeDev/Office-Add-in-samples">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OfficeDev&repo=Office-Add-in-samples&theme=dark" />
+      <img align="center" src="https://github-readme-stats-aafvstam.vercel.app/api/pin/?username=aafvstam&repo=Blazor.PowerPoint.AddIn&theme=dark" />
    </a>
 </p>
 <p align="center">
    <a href="https://github.com/aafvstam/softasinsoftware.com">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aafvstam&repo=softasinsoftware.com&theme=dark" />
+      <img align="center" src="https://github-readme-stats-aafvstam.vercel.app/api/pin/?username=aafvstam&repo=softasinsoftware.com&theme=dark" />
    </a>
 </p>
 
@@ -73,7 +68,7 @@
 
 <p align="center">
    <a href="https://github.com/aafvstam/Office-Add-in-samples">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aafvstam&repo=Office-Add-in-samples&theme=dark" />
+      <img align="center" src="https://github-readme-stats-aafvstam.vercel.app/api/pin/?username=aafvstam&repo=Office-Add-in-samples&theme=dark" />
    </a>
 </p>
 
